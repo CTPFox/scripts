@@ -1,2 +1,0 @@
-# scripts
-assorted scripts
