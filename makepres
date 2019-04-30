@@ -1,0 +1,6 @@
+#!/bin/bash
+#creates a PDF from a markdown source file
+#good for basic quick basic presentation slides
+#prequisites: pandoc, texfull-live
+pandoc $1 -t beamer -o $2
+
